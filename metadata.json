@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներեն Gustar Բայը",
+  "description": "Իսպաներենի Gustar և նմանատիպ բայերի ուսուցման ծրագիր հայախոսների համար՝ տեսական բացատրություններով և 6 հետաքրքիր խաղերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
